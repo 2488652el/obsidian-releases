@@ -35873,5 +35873,12 @@
     "author": "yonxao",
     "description": "Render Markdown-heading-style mind maps from yxmm code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "yonxao/yonxao-mindmap"
+  },
+  {
+    "id": "tokboard",
+    "name": "Tokboard",
+    "author": "LLM-WIKI",
+    "description": "Local-first token usage board for AI API keys, coding plans, quota windows, and model-level history.",
+    "repo": "2488652el/Tokboard"
   }
 ]
